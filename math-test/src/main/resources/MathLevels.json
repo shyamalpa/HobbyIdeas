@@ -1,0 +1,26 @@
+[
+   {
+      "level":1,
+      "levelInfo":"Begineer",
+      "leftOperandMinLimit":0,
+      "leftOperandMaxLimit":10,
+      "rightOperandMinLimit":0,
+      "rightOperandMaxLimit":10
+   },
+   {
+      "level":2,
+      "levelInfo":"Intermediate",
+      "leftOperandMinLimit":11,
+      "leftOperandMaxLimit":99,
+      "rightOperandMinLimit":0,
+      "rightOperandMaxLimit":10
+   },
+   {
+      "level":3,
+      "levelInfo":"Advanced",
+      "leftOperandMinLimit":100,
+      "leftOperandMaxLimit":200,
+      "rightOperandMinLimit":0,
+      "rightOperandMaxLimit":10
+   }
+]
